@@ -1,0 +1,10 @@
+---
+applications:
+- name: docutech-service
+  routes:
+    - route: docutech-service.test.apps.pas.east.aws.warroyo.com
+  memory: 768M
+  instances: 2
+  services: []
+  env:
+    SKIP_SSL_VALIDATION: "true"
