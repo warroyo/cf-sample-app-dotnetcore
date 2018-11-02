@@ -1,0 +1,5 @@
+app_name: docutech-service
+git_repo:  https://github.com/warroyo/cf-sample-app-dotnetcore
+dev_route: https://docutech-service.dev.apps.pas.east.aws.warroyo.com
+test_route: https://docutech-service.test.apps.pas.east.aws.warroyo.com
+
