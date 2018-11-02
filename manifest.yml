@@ -1,0 +1,8 @@
+---
+applications:
+- name: docutech-service
+  memory: 768M
+  instances: 2
+  services: []
+  env:
+    SKIP_SSL_VALIDATION: "true"
