@@ -9,7 +9,7 @@ namespace CfSampleAppDotNetCore
         {
             app.Run(context =>
             {
-                return context.Response.WriteAsync("Congratulations! Welcome to the Swisscom Application Cloud.");
+                return context.Response.WriteAsync("Congratulations! this is a sample .net app.");
             });
         }
     }
