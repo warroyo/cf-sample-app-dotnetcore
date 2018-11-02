@@ -2,7 +2,7 @@
 applications:
 - name: docutech-service
   routes:
-    - route: docutech-service.dev.apps.pas.east.aws.warroyo.com
+    - route: docutech-service-email.dev.apps.pas.east.aws.warroyo.com
   memory: 768M
   instances: 2
   services: []
