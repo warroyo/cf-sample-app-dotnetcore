@@ -1,5 +1,5 @@
 app_name: docutech-service-email
 git_repo:  https://github.com/warroyo/cf-sample-app-dotnetcore
-dev_route: https://docutech-service.dev.apps.pas.east.aws.warroyo.com
-test_route: https://docutech-service.test.apps.pas.east.aws.warroyo.com
+dev_route: https://docutech-service-email.dev.apps.pas.east.aws.warroyo.com
+test_route: https://docutech-service-email.test.apps.pas.east.aws.warroyo.com
 
